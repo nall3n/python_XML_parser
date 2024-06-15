@@ -1,6 +1,8 @@
 from xml.etree import ElementTree
 from datetime import date
+from time import sleep
 import os
+import json
 from os import path
 
 brand_name = "testbrand"
@@ -19,13 +21,27 @@ article_id_list = []
 output_file = open("out%s.txt" % date.today(), "a")
 
 xml_folder = "XML"
+
+with open("trade_item_files.json", encoding="UTF-8") as f:
+    
+    data = json.load(f)
+
+    row_count = 0
+    for row in data:
+        if row.get("Data"):
+            print (row.get("Name"))
+            with open(path.join(xml_folder, row["Name"]), 'w', encoding="UTF-8") as xml_file:
+                xml_file.write(row["Data"])
+        else:
+            print ("File empty")
+
 xml_list = os.listdir(path.join(os.curdir, xml_folder))
 for i in xml_list:
     if not i.endswith(".xml"):
         xml_list.pop(xml_list.index(i))
 
 for xml_file in xml_list:
-
+    print(xml_file)
     tree = ElementTree.parse(path.join(xml_folder, xml_file))
     root = tree.getroot()
 
@@ -50,7 +66,6 @@ for xml_file in xml_list:
                     SET APantId = %s WHERE Barcode = '%s';""" % (brand_name, profileId, pant_articels.get(pant_total_value) if pant_articels.get(pant_total_value) else "NULL" , id.text)
                     print(script_output)
                     output_file.writelines(script_output)
-
 output_file.close()
 
 for pant in pant_list:
