@@ -1,0 +1,523 @@
+ 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157003099'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '3068320014067'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310400020182'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5703828003288'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000000439'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000130969'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000095008'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000060'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000053'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000091'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000367'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000350'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000374'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '9002515425409'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000131836'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003221'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003306'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003276'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070382306'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070381903'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070378507'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403000877'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000133335'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54492653'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003290'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '90490705'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000015594'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003443'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001194'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002191'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070701909'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070701916'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400022629'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000050212'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070151308'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070151209'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002122'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002283'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002146'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001149'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001125'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001286'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '3068320055008'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '3068320128566'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002078'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401015965'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070154101'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070154705'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001071'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310400020731'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400010015'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400011258'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400011241'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157002399'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070124906'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '73513575'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '73513513'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003245'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003238'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070059208'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157002405'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002412'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7044610014937'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493834'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493810'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493803'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157301157'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157001019'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001231'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157302154'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403001669'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070733856'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403001775'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5703828020179'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000149343'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7312720021238'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7312720022235'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710003'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003467'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5000112570939'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000138026'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710409'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001217'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003825'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310070752116'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710508'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000169587'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157003099'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '3068320014067'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310400020182'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5703828003288'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000000439'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000130969'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000095008'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000060'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000053'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000091'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000367'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000350'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401000374'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '9002515425409'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000131836'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003221'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003306'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003276'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070382306'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070381903'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070378507'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403000877'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000133335'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54492653'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003290'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '90490705'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000015594'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003443'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001194'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002191'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070701909'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070701916'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400022629'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000050212'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070151308'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070151209'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002122'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002283'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002146'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001149'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001125'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001286'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '3068320055008'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '3068320128566'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002078'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401015965'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070154101'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310070154705'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001071'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310400020731'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400010015'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400011258'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310400011241'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157002399'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070124906'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '73513575'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '73513513'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7310401003245'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003238'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070059208'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157002405'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157002412'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7044610014937'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493834'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493810'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '54493803'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157301157'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7331157001019'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001231'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157302154'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403001669'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310070733856'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310403001775'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5703828020179'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000149343'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7312720021238'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7312720022235'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710003'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003467'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5000112570939'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '5449000138026'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710409'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124 WHERE Barcode = '7331157001217'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7310401003825'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = NULL WHERE Barcode = '7310070752116'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '7350042710508'; 
+            UPDATE truepos_brand_testbrand_posprofile_1.article
+            SET APantId = 124235 WHERE Barcode = '5449000169587'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157003099'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '3068320014067'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310400020182'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5703828003288'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5449000000439'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5449000130969'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5449000095008'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000060'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000053'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000091'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000367'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000350'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401000374'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '9002515425409'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5449000131836'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401003221'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401003306'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401003276'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070382306'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070381903'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070378507'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310403000877'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5449000133335'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '54492653'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401003290'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '90490705'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5449000015594'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401003443'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001194'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002191'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070701909'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070701916'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310400022629'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5449000050212'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070151308'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070151209'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002122'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002283'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002146'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001149'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001125'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001286'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '3068320055008'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '3068320128566'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002078'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401015965'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070154101'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310070154705'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001071'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310400020731'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310400010015'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310400011258'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310400011241'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157002399'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310070124906'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '73513575'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '73513513'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7310401003245'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401003238'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310070059208'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157002405'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157002412'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7044610014937'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '54493834'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '54493810'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '54493803'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157301157'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7331157001019'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001231'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157302154'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310403001669'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310070733856'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310403001775'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5703828020179'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5449000149343'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7312720021238'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7312720022235'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7350042710003'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401003467'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5000112570939'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '5449000138026'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7350042710409'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124 WHERE Barcode = '7331157001217'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7310401003825'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = NULL WHERE Barcode = '7310070752116'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '7350042710508'; 
+            UPDATE truepos_brand_testbrand_posprofile_2.article
+            SET APantId = 124235 WHERE Barcode = '5449000169587';
