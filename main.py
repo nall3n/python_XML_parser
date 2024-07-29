@@ -5,17 +5,18 @@ import os
 import json
 from os import path
 
-brand_name = "testbrand"
+brand_name = "5592692957"
 profileId = "1"
 pant_list = []
 pant_articels = {
-    1: 124235,
-    2: 124,
-    3: 12415,
-    4: 15135,
-    6: 41255,
-    8: 15246357,
-    12: 12314,
+    1: 28297,
+    2: 28298,
+    4: 28299,
+    6: 28300,
+    8: 28301,
+    10: 28302,
+    12: 28303,
+    24: 28304,
 }
 article_id_list = []
 output_file = open("out%s.txt" % date.today(), "a")
