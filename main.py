@@ -7,23 +7,38 @@ from os import path
 
 brand_name = "5592692957"
 profileId = "1"
+xml_folder = "XML"
+json_file = 'trade_item_files.json'
+
 pant_list = []
 pant_articels = {
-    1: 28297,
-    2: 28298,
-    4: 28299,
-    6: 28300,
-    8: 28301,
-    10: 28302,
-    12: 28303,
-    24: 28304,
+    10	:	49460	,
+    12	:	49461	,
+    1	:	49406	,
+    20	:	49468	,
+    24	:	49462	,
+    2	:	49408	,
+    30	:	49418	,
+    4	:	49458	,
+    6	:	49415	,
+    8	:	49459	,
 }
 article_id_list = []
 output_file = open("out%s.txt" % date.today(), "a")
 
-xml_folder = "XML"
+# Create the directory
+try:
+    os.mkdir(xml_folder)
+    print(f"Directory '{xml_folder}' created successfully.")
+except FileExistsError:
+    print(f"Directory '{xml_folder}' already exists.")
+except PermissionError:
+    print(f"Permission denied: Unable to create '{xml_folder}'.")
+except Exception as e:
+    print(f"An error occurred: {e}")
 
-with open("trade_item_files.json", encoding="UTF-8") as f:
+
+with open(json_file, encoding="UTF-8") as f:
     
     data = json.load(f)
 

@@ -1,0 +1,19 @@
+
+USE truepos
+SELECT REPLACE(REPLACE(name, 'PANT ', ''), 'kr', ''), ':', id, ',', name FROM articles
+where ispant = 1
+ORDER BY name
+
+HISHULT
+5594649401
+
+10	:	49460	,
+12	:	49461	,
+1	:	49406	,
+20	:	49468	,
+24	:	49462	,
+2	:	49408	,
+30	:	49418	,
+4	:	49458	,
+6	:	49415	,
+8	:	49459	,
