@@ -9,6 +9,8 @@ brand_name = "5592692957"
 profileId = "1"
 xml_folder = "XML"
 json_file = 'trade_item_files.json'
+# Togle for only uppdating articles with missing pant
+only_update_missing = True
 
 pant_list = []
 pant_articels = {
@@ -77,11 +79,18 @@ for xml_file in xml_list:
                 if id.text not in article_id_list:
                     article_id_list.append(id.text)
                     #print(id.text, pant_price, pant_quantity, " total: ", pant_total_value, tax_rate)
-                    script_output = """ 
-                    UPDATE truepos_brand_%s_posprofile_%s.article
-                    SET APantId = %s WHERE Barcode = '%s';""" % (brand_name, profileId, pant_articels.get(pant_total_value) if pant_articels.get(pant_total_value) else "NULL" , id.text)
-                    print(script_output)
-                    output_file.writelines(script_output)
+                    if only_update_missing:
+                        script_output = """ 
+                        UPDATE truepos_brand_%s_posprofile_%s.article
+                        SET APantId = %s WHERE Barcode = '%s' AND APantId IS NULL;""" % (brand_name, profileId, pant_articels.get(pant_total_value) if pant_articels.get(pant_total_value) else "NULL" , id.text)
+                        print(script_output)
+                        output_file.writelines(script_output)
+                    else: 
+                        script_output = """ 
+                        UPDATE truepos_brand_%s_posprofile_%s.article
+                        SET APantId = %s WHERE Barcode = '%s';""" % (brand_name, profileId, pant_articels.get(pant_total_value) if pant_articels.get(pant_total_value) else "NULL" , id.text)
+                        print(script_output)
+                        output_file.writelines(script_output)
 output_file.close()
 
 for pant in pant_list:
