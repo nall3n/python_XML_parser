@@ -8,7 +8,7 @@ from os import path
 brand_name = "5592692957"
 profileId = "1"
 xml_folder = "XML"
-json_file = 'trade_item_files.json'
+json_file = 'trade_item_files2.json'
 # Togle for only uppdating articles with missing pant
 only_update_missing = True
 
