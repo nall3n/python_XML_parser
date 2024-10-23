@@ -8,22 +8,20 @@ from os import path
 brand_name = "5592692957"
 profileId = "1"
 xml_folder = "XML"
-json_file = 'trade_item_files2.json'
+json_file = 'Namdo_trade_item_files.json'
 # Togle for only uppdating articles with missing pant
-only_update_missing = True
+only_update_missing = False
 
 pant_list = []
 pant_articels = {
-    10	:	49460	,
-    12	:	49461	,
-    1	:	49406	,
-    20	:	49468	,
-    24	:	49462	,
-    2	:	49408	,
-    30	:	49418	,
-    4	:	49458	,
-    6	:	49415	,
-    8	:	49459	,
+10	:	28302	,
+12	:	28303	,
+1	:	28297	,
+24	:	28304	,
+2	:	28298	,
+4	:	28299	,
+6	:	28300	,
+8	:	28301	,
 }
 article_id_list = []
 output_file = open("out%s.txt" % date.today(), "a")
